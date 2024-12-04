@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # 加载结构
-cif_file = r"E:\project pp\练习用\cif分割\11.cif"
+cif_file = r"文件地址"
 structure = read(cif_file)
 
 # 定义分割数量 nx, ny, nz，确保 nx * ny * nz = 10
